@@ -29,3 +29,4 @@ Use Cases:
 Problems:
 
  - Handles negitive inputs for account balance when withdrawing and depositing as the vise versa
+ - Content of all objects could be formatted better
