@@ -19,3 +19,13 @@ Customer #2:
 All Objects:
 
 ![Screenshot 2022-12-14 at 1 25 28 PM](https://user-images.githubusercontent.com/104415326/207694759-5f218749-a81b-4718-a0d2-a06cd6193c3e.jpg)
+
+Use Cases: 
+
+ - Connecting a backend database with code on the front end
+ - Arithmetic for Banking Website
+ - CSV Handling
+
+Problems:
+
+ - Handles negitive inputs for account balance when withdrawing and depositing as the vise versa
